@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="Group 35" src="https://github.com/user-attachments/assets/89610e22-571d-4060-b7a4-b761d4d0c8ce" />
+<img width="1983" height="505" alt="Group 39" src="https://github.com/user-attachments/assets/41e5976a-59e7-4734-8562-131b273f6be6" />
+
 
 
 ```bash
