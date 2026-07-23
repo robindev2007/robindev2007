@@ -39,6 +39,15 @@ $ status
 > [██████████] Open to Full Stack Developer roles & freelance projects
 ```
 
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,bun,prisma,postgres,mongodb,redis,supabase,docker,cloudflare,nginx,linux,tailwind,git,github,vscode,figma,postman&perline=11" alt="Tech Stack" />
+
+## ⚡ Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,bun,prisma,postgres,mongodb,redis,supabase,docker,cloudflare,nginx,linux,tailwind,git,github,vscode,figma,postman&perline=11" alt="Tech Stack" />
+
+
+
 </div>
+
+
